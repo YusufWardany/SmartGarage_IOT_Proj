@@ -1,7 +1,5 @@
 # 🚗 Smart Garage Monitor - IoT Parking Solution
 
-![Smart Garage Dashboard](website/screenshot.png) 
-*(Add a screenshot of your live web dashboard here)*
 
 ## 📌 Project Overview
 The **Smart Garage Monitor** is a fully automated, cloud-connected IoT system designed to detect real-time parking occupancy. Built as a proof-of-concept for the Al-Alamein Smart City initiative, this project reduces traffic congestion and fuel consumption by allowing drivers to check parking availability remotely.
